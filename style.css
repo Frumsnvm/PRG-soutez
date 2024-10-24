@@ -1,0 +1,16 @@
+body{
+    background-image: url("") ;
+    
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 200px;
+}
+
+p{
+    text-align: left;
+    margin-top: 200px;
+}
+Article { border: 3px solid #000000; }
